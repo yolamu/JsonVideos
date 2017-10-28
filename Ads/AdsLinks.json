@@ -1,12 +1,12 @@
 {
     "adsData": {
         "ads": [
-            {
-                "AdName": "Http//sdadgjfndfgg",
-                "VideoUrl": "Http//sdadgjfndfgg",
-                "ImageUrl": "Skate video",
-                "AdSiteUrl": "Http//sdadgjfndfgg"
-            }
+          {
+            "AdName": "Ads Test",
+            "VideoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Ads/WeChat_20171027234635.mp4?raw=true",
+            "ImageUrl": "https://github.com/yolamu/JsonVideos/blob/master/Ads/OSS.jpg?raw=true",
+            "AdSiteUrl": "https://github.com/yolamu"
+          }
         ]
     }
 }
