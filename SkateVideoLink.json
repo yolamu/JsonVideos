@@ -1,6 +1,19 @@
 {
     "skatevideosData": {
         "videos": [
+
+		  {
+            "nameVideo": "Charred Remains- Thrash and Burn in Germany And Prague ",
+            "url": "https://github.com/yolamu/JsonVideos/blob/master/Pole_Jam_Laser_Flip!!!.mp4?raw=true",
+            "skater": ""
+          },
+
+		  {
+            "nameVideo": "Chris Joslin Skateboarding 2017 ",
+            "url": "https://github.com/yolamu/JsonVideos/blob/master/Chris%20Joslin%20Skateboarding%202017%20Pt.%202.mp4?raw=true",
+            "skater": ""
+          },
+
           {
             "nameVideo": "Best Skateboarding Tricks #1",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/BEST%20SKATEBOARDING%20TRICKS%20COMPILATION%202017%20--%20%2322.mp4?raw=true",
@@ -13,17 +26,15 @@
             "skater": ""
           },
 
-          {
-            "nameVideo": "Chris Joslin Skateboarding 2017 ",
-            "url": "https://github.com/yolamu/JsonVideos/blob/master/Chris%20Joslin%20Skateboarding%202017%20Pt.%202.mp4?raw=true",
-            "skater": ""
-          },
+          
             
           {
             "nameVideo": "Charred Remains- Thrash and Burn in Germany And Prague ",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/Charred%20Remains-%20Thrash%20and%20Burn%20in%20Germany%20And%20Prague.mp4?raw=true",
             "skater": ""
           }
+
+		 
             
             
 
