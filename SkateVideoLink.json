@@ -3,8 +3,8 @@
         "videos": [
 
 		  {
-            "nameVideo": "PoleJam Laser Flip!!!",
-            "url": "https://github.com/yolamu/JsonVideos/blob/master/Pole_Jam_Laser_Flip!!!.mp4?raw=true",
+            "nameVideo": "Louie Lopez's 'West End' Part",
+            "url": "https://github.com/yolamu/JsonVideos/blob/master/Louie_Lopez_s_West_End_Part.mp4?raw=true",
             "skater": ""
           },
 
@@ -26,7 +26,11 @@
             "skater": ""
           },
 
-          
+          {
+            "nameVideo": "PoleJam Laser Flip!!!",
+            "url": "https://github.com/yolamu/JsonVideos/blob/master/Pole_Jam_Laser_Flip!!!.mp4?raw=true",
+            "skater": ""
+          },
             
           {
             "nameVideo": "Charred Remains- Thrash and Burn in Germany And Prague ",
