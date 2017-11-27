@@ -4,14 +4,14 @@
           {
             "ShopName": "Shop1",
             "ShopUrl": "https://plusskateshop.com/",
-            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Ads/OSS.jpg?raw=true",
+            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/raw/master/Shops/shop1.png",
             "DescriptionText": "testing shops"
           },
 
 		  {
             "ShopName": "Shop2",
             "ShopUrl": "http://stores.dickssportinggoods.com/fl/orlando/1179/",
-            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Ads/OSS.jpg?raw=true",
+            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/raw/master/Shops/Shop2.jpg",
             "DescriptionText": "testing shops"
           }
         ]
