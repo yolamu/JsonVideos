@@ -1,6 +1,12 @@
 {
     "shopsData": {
         "shops": [
+		{
+            "ShopName": "braille skateboarding1",
+            "ShopUrl": "https://www.brailleskateboarding.com/shop/",
+            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/braille_logo.png?raw=true",
+            "DescriptionText": "In our shop you will find all of our Skateboarding Made Simple volumes as well as everything you need to start skateboarding."
+        },
          
         ]
     }
