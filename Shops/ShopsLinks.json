@@ -1,12 +1,7 @@
 {
     "shopsData": {
         "shops": [
-		{
-            "ShopName": "braille skateboarding",
-            "ShopUrl": "https://www.brailleskateboarding.com/shop/",
-            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/braille_logo.png?raw=true",
-            "DescriptionText": "Get Skateboarding Made Simple as well as everything you need to start skateboarding."
-        }
+		
          
         ]
     }
