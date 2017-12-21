@@ -1,0 +1,30 @@
+{
+    "hotListData": {
+        "hotlist": [
+		  {
+            "PostName": "Rock that Hoodie",
+            "PostUrl": "https://jzsk8.taobao.com",
+            "PostLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/HotList/post1.png?raw=true",
+            "DescriptionText": "Big Holiday special discounts "
+          },
+		  {
+            "PostName": "Socks for you",
+            "PostUrl": "https://jzsk8.taobao.com",
+            "PostLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/HotList/post2.png?raw=true",
+            "DescriptionText": "Big Holiday special discounts "
+          },
+		  {
+            "PostName": "Dope Socks",
+            "PostUrl": "https://jzsk8.taobao.com",
+            "PostLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/HotList/post3.png?raw=true",
+            "DescriptionText": "Big Holiday special discounts"
+          },
+		  {
+            "PostName": "Get 85% Discount",
+            "PostUrl": "https://jzsk8.taobao.com",
+            "PostLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/HotList/post4.png?raw=true",
+            "DescriptionText": "Big Holiday special discounts"
+          }
+        ]
+    }
+}
