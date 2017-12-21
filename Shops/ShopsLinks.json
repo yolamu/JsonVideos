@@ -3,10 +3,10 @@
         "shops": [
 		
          {
-            "ShopName": "尾单好货批发",
+            "ShopName": "DrugSkateShop",
             "ShopUrl": "https://jzsk8.taobao.com",
             "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/DrugSkateShop.jpg?raw=true",
-            "DescriptionText": "一个专业的袜子商店"
+            "DescriptionText": "A professional sock shop"
           }
         ]
     }
