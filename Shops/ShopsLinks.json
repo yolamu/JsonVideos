@@ -1,0 +1,12 @@
+{
+    "shopsData": {
+        "shops": [
+		  {
+            "ShopName": "The Good Stuff Shop",
+            "ShopUrl": "https://jzsk8.taobao.com",
+            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/ShopList/DrugSkateShop.jpg?raw=true",
+            "DescriptionText": "a professional sock store"
+          }
+        ]
+    }
+}
