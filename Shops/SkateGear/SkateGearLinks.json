@@ -2,10 +2,10 @@
     "gearData": {
         "gear": [
 		  {
-            "ShopName": "The Good Stuff Shop",
+            "ShopName": "Drug SkateShop",
             "ShopUrl": "https://jzsk8.taobao.com",
             "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/ShopList/DrugSkateShop.jpg?raw=true",
-            "DescriptionText": "a professional sock store"
+            "DescriptionText": "Exclusive Gear"
           }
         ]
     }
