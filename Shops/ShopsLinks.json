@@ -1,12 +1,18 @@
 {
     "shopsData": {
-        "shops": [
-		  {
-            "ShopName": "The Good Stuff Shop",
-            "ShopUrl": "https://jzsk8.taobao.com",
-            "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/ShopList/DrugSkateShop.jpg?raw=true",
-            "DescriptionText": "a professional sock store"
-          }
-        ]
+      "shops": [
+        {
+          "ShopName": "The Good Stuff Shop",
+          "ShopUrl": "https://jzsk8.taobao.com",
+          "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/ShopList/DrugSkateShop.jpg?raw=true",
+          "DescriptionText": "a professional sock store"
+        },
+        {
+          "ShopName": "Manual SkateShop",
+          "ShopUrl": "https://weibo.com/u/1770812915?refer_flag=1001030102_&is_hot=1",
+          "ShopLogoUrl": "https://github.com/yolamu/JsonVideos/blob/master/Shops/ShopList/ManualSkateshop.jpg?raw=true",
+          "DescriptionText": "SkateShop based in Shenyang City China"
+        }
+      ]
     }
 }
