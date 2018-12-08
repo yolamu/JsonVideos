@@ -14,7 +14,7 @@
             "nameVideo": "Volcom's RV Rampage Video",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/Volcom_s_RV_Rampage_Video.mp4?raw=true",
             "skater": "",
-			"type": "skateboard",
+			"type": "longboard",
 			"ToSupportUrl": "6"
           },
 
@@ -22,7 +22,7 @@
             "nameVideo": "Louie Lopez's 'West End' Part",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/Louie_Lopez_s_West_End_Part.mp4?raw=true",
             "skater": "",
-			"type": "skateboard",
+			"type": "freeline",
 			"ToSupportUrl": "6"
 			
           },
@@ -31,7 +31,7 @@
             "nameVideo": "Chris Joslin Skateboarding 2017 ",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/Chris%20Joslin%20Skateboarding%202017%20Pt.%202.mp4?raw=true",
             "skater": "",
-			"type": "skateboard",
+			"type": "rollerskates",
 			"ToSupportUrl": "6"
           },
 
@@ -39,7 +39,7 @@
             "nameVideo": "Best Skateboarding Tricks #1",
             "url": "https://github.com/yolamu/JsonVideos/blob/master/BEST%20SKATEBOARDING%20TRICKS%20COMPILATION%202017%20--%20%2322.mp4?raw=true",
             "skater": "",
-			"type": "skateboard",
+			"type": "something",
 			"ToSupportUrl": "6"
           },
 
